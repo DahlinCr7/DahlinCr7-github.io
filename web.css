@@ -1,0 +1,84 @@
+.alert{
+    background-color: aqua;
+    width: 100%;
+    padding-top:1% ;
+    padding-bottom:1% ;
+}
+
+.cater{
+   color: chocolate;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+   'Lucida Grande', 'Lucida Sans Unicode', Geneva, 
+   Verdana, sans-serif;
+   font-weight: bold;
+   border: cornsilk solid ;
+   border-radius: 30px;
+   width: 45%;
+   text-align: center;
+   margin-left: 30%;
+   margin-right: 43%;
+}
+ .back{
+    background-image: url(chef.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 35rem;
+
+ }
+
+ .nav{
+     text-align: center;
+     display: block; 
+ }
+
+
+.nav a{
+    text-align: center;
+    color: chocolate;
+    text-decoration: none;
+    padding-left: 3%;
+    padding-right: 3%;  
+}
+
+.head{
+    color: rgb(248, 195, 248);
+    font-family:monospace;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    padding-top:15rem;
+   
+}
+
+.big{
+    color: chocolate;
+    font-weight: bold;
+    font-family:  monospace;
+    font-size: 2rem;
+
+}
+
+.img{
+    text-align: center;
+}
+
+.dish a{
+    color: chocolate;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+.last{
+    background-color: rgb(255, 242, 185);
+}
+
+.foot{
+   
+    text-align: center;
+    padding: 2rem 5rem;
+}
+
+.copy{
+    background-color: rgb(58, 44, 34);
+    text-align: center;
+}
